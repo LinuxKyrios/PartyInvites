@@ -1,5 +1,28 @@
 ﻿<Properties StartupConfiguration="{0C803402-0A5E-47C8-B963-B1EA8A30868B}|">
   <MonoDevelop.Ide.ItemProperties.PartyInvites.Tests FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.PartyInvites FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="/usr/bin/google-chrome-unstable" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PartyInvites" expanded="True">
+            <Node name="PartyInvites" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
