@@ -8,9 +8,9 @@ namespace PartyInvites.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public string Index()
         {
-            return View ();
+            return "Hello Mono/ASP.NET World";
         }
     }
 }
