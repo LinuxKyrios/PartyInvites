@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{0C803402-0A5E-47C8-B963-B1EA8A30868B}|">
   <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="/usr/bin/google-chrome-unstable" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Views/Home/RsvpForm.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Views/Home/Thanks.cshtml">
     <Files>
-      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="18" Column="31" />
-      <File FileName="PartyInvites/Views/Home/Index.cshtml" Line="17" Column="15" />
-      <File FileName="PartyInvites/Models/GuestResponse.cs" Line="11" Column="61" />
-      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="1" Column="1" />
+      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="31" Column="29" />
+      <File FileName="PartyInvites/Views/Home/Index.cshtml" Line="8" Column="5" />
+      <File FileName="PartyInvites/Models/GuestResponse.cs" Line="2" Column="1" />
+      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="23" Column="55" />
+      <File FileName="PartyInvites/Views/Home/Thanks.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +17,7 @@
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True">
-                  <Node name="RsvpForm.cshtml" selected="True" />
+                  <Node name="Thanks.cshtml" selected="True" />
                 </Node>
               </Node>
             </Node>
