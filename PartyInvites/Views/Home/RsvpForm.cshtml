@@ -13,6 +13,7 @@
 <body>
         @using (Html.BeginForm()) 
         {
+            @Html.ValidationSummary()
             <p>Your Name: @Html.TextBoxFor(x => x.Name)</p>
             <p>Your email addres: @Html.TextBoxFor(x => x.Email)</p>
             <p>Your phone number: @Html.TextBoxFor(x => x.Phone)</p>

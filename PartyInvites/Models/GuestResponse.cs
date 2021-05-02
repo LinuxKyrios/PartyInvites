@@ -9,7 +9,7 @@ namespace PartyInvites.Models
         public string Name { get; set; }
 
         [Required(ErrorMessage = "Please input your email address")]
-        [RegularExpression(".+\\@.+\\..",
+        [RegularExpression(".+\\@.+\\..+",
             ErrorMessage = "Please input a correct email address")]
         public string Email { get; set; }
 
@@ -19,5 +19,6 @@ namespace PartyInvites.Models
         [Required(ErrorMessage = "Please choose if you will take part in our party")]
         public bool? WillAttend { get; set; }
     }
-    /*This model is for get personal data from invited users*/
+    /*This model is for get personal data from invited users
+    Now it also check the formal correctness of inputet data*/
 }

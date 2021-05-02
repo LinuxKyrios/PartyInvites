@@ -27,8 +27,17 @@ namespace PartyInvites.Controllers
         [HttpPost]
         public ViewResult RsvpForm(GuestResponse guestResponse)
         {
-            //method for sending content guestResponse to party host
-            return View("Thanks", guestResponse);
+            if (ModelState.IsValid)
+            {
+                //method for sending content guestResponse to party host
+                return View("Thanks", guestResponse);
+            }
+            else
+            {
+                //an error of correctness control causes repeat of displayed form for guest data
+                return View();
+            }
+
         }
     }
 }
