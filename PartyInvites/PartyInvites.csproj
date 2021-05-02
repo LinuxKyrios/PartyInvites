@@ -76,6 +76,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\RsvpForm.cshtml" />
     <Content Include="Views\Home\Thanks.cshtml" />
+    <Content Include="Content\Style.css" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
