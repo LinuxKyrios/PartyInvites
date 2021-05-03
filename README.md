@@ -5,5 +5,5 @@ The general objectives of the project are to create a sample web application usi
 
 ## Used versions of development environments
 * MonoDevelop 7.6.9.22
-* Mono 6.12.0.141
+* Mono Framework 6.12.0.141
 * .NET Framework 4.8
