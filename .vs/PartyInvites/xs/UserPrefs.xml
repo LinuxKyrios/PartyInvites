@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{0C803402-0A5E-47C8-B963-B1EA8A30868B}|">
   <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="/usr/lib/firefox/firefox" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Content/Style.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Views/Home/RsvpForm.cshtml">
     <Files>
       <File FileName="PartyInvites/Controllers/HomeController.cs" Line="35" Column="17" />
       <File FileName="PartyInvites/Views/Home/Index.cshtml" Line="12" Column="14" />
       <File FileName="PartyInvites/Models/GuestResponse.cs" Line="16" Column="69" />
-      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="11" Column="28" />
+      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="11" Column="55" />
       <File FileName="PartyInvites/Views/Home/Thanks.cshtml" Line="12" Column="8" />
-      <File FileName="PartyInvites/Content/Style.css" Line="1" Column="1" />
+      <File FileName="PartyInvites/Content/Style.css" Line="20" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PartyInvites" expanded="True">
             <Node name="PartyInvites" expanded="True">
-              <Node name="Content" expanded="True">
-                <Node name="Style.css" selected="True" />
-              </Node>
+              <Node name="Content" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="RsvpForm.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
