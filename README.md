@@ -7,3 +7,7 @@ The general objectives of the project are to create a sample web application usi
 * MonoDevelop 7.6.9.22
 * Mono Framework 6.12.0.141
 * .NET Framework 4.8
+* AspNet.Mvc.5.2.7
+* AspNet.Razor.3.2.7
+* AspNet.WebPages.3.2.7
+* NUnit.3.13.2
