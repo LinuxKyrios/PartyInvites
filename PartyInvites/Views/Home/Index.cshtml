@@ -6,16 +6,21 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-responsive.css" rel="stylesheet" />
     <title>New Years Party</title>
+    <style>
+        .btn a { color:  white; text-decoration: none}
+        body { background-color: #F1F1F1; }
+    </style>
 </head>
 <body>
-        <div>
-            @ViewBag.Greeting, World from my first view C:
-            <p>I would like to invite You to a great party!
-                <br>
-                (Things to do: improve this site, add photos and other stuff)
-            </p>
-            @Html.ActionLink("Send RSVP", "RsvpForm")
+        <div class="text-center">
+            <h1>I would like to invite You to a great party!</h1>
+            <h2>You are invited to be a special guest!</h2>
+            <div class="btn btn-success">
+                @Html.ActionLink("Send RSVP", "RsvpForm")
+            </div>
         </div>
 </body>
 </html>
