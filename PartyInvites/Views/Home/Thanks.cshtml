@@ -16,8 +16,26 @@
     </style>
 </head>
 <body>
+<!-- Email notofication -->
+@{
+    try
+    {
+        WebMail.SmtpServer = "smtp.example.eu";
+        WebMail.SmtpPort = 587;
+        WebMail.EnableSsl = true;
+        WebMail.UserName = "exampleUserMail";
+        WebMail.Password = "exampleUserPassword";
+        WebMail.From = "rsvp@example.eu";
 
-
+        WebMail.Send("linuxkyrios@gmail.com", "RSVP Notification", Model.Name + ((Model.WillAttend ?? false) ? "" : "no") + "will come")
+            ;
+    }
+    catch (Exception)
+    {
+        @:<b>Apologize - it is not possible to send RSVP notification</b>
+    }
+}
+<!-- Response template -->
 <div class="text-center">
     <h1>Thank you, @Model.Name !</h1>
     <div class="lead">

@@ -4,11 +4,8 @@
     <projectFile>PartyInvites/PartyInvites.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bda22d-e2a5-4e51-a278-263608310f71" name="Default Changelist" comment="Modified RsvpForm.cshtml to add Bootstrap Styling. Unfortunately, it is not working correct. Lesson for the future projects">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PartyInvites/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartyInvites/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4bda22d-e2a5-4e51-a278-263608310f71" name="Default Changelist" comment="Styled Thanks.cshtml file with Bootstrap">
       <change beforePath="$PROJECT_DIR$/PartyInvites/Views/Home/Thanks.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/Views/Home/Thanks.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PartyInvites/bin/PartyInvites.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/bin/PartyInvites.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PartyInvites/obj/Debug/PartyInvites.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/obj/Debug/PartyInvites.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
       <workItem from="1620077943320" duration="1573000" />
       <workItem from="1620079577851" duration="838000" />
       <workItem from="1620117603590" duration="852000" />
-      <workItem from="1620118660855" duration="2533000" />
+      <workItem from="1620118660855" duration="2940000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap do project and modified index.cshtml file.">
       <created>1620079915809</created>
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620121108693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Styled Thanks.cshtml file with Bootstrap">
+      <created>1620122058120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620122058120</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +138,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added Bootstrap do project and modified index.cshtml file." />
     <MESSAGE value="Modified RsvpForm.cshtml to add Bootstrap Styling. Unfortunately, it is not working correct. Lesson for the future projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified RsvpForm.cshtml to add Bootstrap Styling. Unfortunately, it is not working correct. Lesson for the future projects" />
+    <MESSAGE value="Styled Thanks.cshtml file with Bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Styled Thanks.cshtml file with Bootstrap" />
   </component>
 </project>
