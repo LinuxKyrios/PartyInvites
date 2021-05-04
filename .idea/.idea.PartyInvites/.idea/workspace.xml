@@ -4,10 +4,9 @@
     <projectFile>PartyInvites/PartyInvites.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bda22d-e2a5-4e51-a278-263608310f71" name="Default Changelist" comment="">
+    <list default="true" id="f4bda22d-e2a5-4e51-a278-263608310f71" name="Default Changelist" comment="Modified RsvpForm.cshtml to add Bootstrap Styling. Unfortunately, it is not working correct. Lesson for the future projects">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PartyInvites/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartyInvites/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PartyInvites.Tests/obj/Debug/PartyInvites.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites.Tests/obj/Debug/PartyInvites.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PartyInvites/Views/Home/RsvpForm.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/Views/Home/RsvpForm.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartyInvites/Views/Home/Thanks.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/Views/Home/Thanks.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PartyInvites/bin/PartyInvites.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/bin/PartyInvites.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PartyInvites/obj/Debug/PartyInvites.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/obj/Debug/PartyInvites.dll" afterDir="false" />
     </list>
@@ -21,10 +20,10 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/PartyInvites/Views/Home/Thanks.cshtml" />
       <option value="$PROJECT_DIR$/PartyInvites/Views/Web.config" />
       <option value="$PROJECT_DIR$/PartyInvites/Views/Home/Index.cshtml" />
       <option value="$PROJECT_DIR$/PartyInvites/Views/Home/RsvpForm.cshtml" />
+      <option value="$PROJECT_DIR$/PartyInvites/Views/Home/Thanks.cshtml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1s2kAuLxJfNnnf7IDyUAx3NUv5M" />
@@ -95,7 +94,7 @@
       <workItem from="1620077943320" duration="1573000" />
       <workItem from="1620079577851" duration="838000" />
       <workItem from="1620117603590" duration="852000" />
-      <workItem from="1620118660855" duration="1531000" />
+      <workItem from="1620118660855" duration="2533000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap do project and modified index.cshtml file.">
       <created>1620079915809</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620079915809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modified RsvpForm.cshtml to add Bootstrap Styling. Unfortunately, it is not working correct. Lesson for the future projects">
+      <created>1620121108693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620121108693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added Bootstrap do project and modified index.cshtml file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Bootstrap do project and modified index.cshtml file." />
+    <MESSAGE value="Modified RsvpForm.cshtml to add Bootstrap Styling. Unfortunately, it is not working correct. Lesson for the future projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified RsvpForm.cshtml to add Bootstrap Styling. Unfortunately, it is not working correct. Lesson for the future projects" />
   </component>
 </project>
