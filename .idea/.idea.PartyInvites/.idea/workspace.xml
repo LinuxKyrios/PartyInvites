@@ -4,7 +4,13 @@
     <projectFile>PartyInvites/PartyInvites.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bda22d-e2a5-4e51-a278-263608310f71" name="Default Changelist" comment="Added Bootstrap do project and modified index.cshtml file." />
+    <list default="true" id="f4bda22d-e2a5-4e51-a278-263608310f71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PartyInvites/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartyInvites/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartyInvites.Tests/obj/Debug/PartyInvites.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites.Tests/obj/Debug/PartyInvites.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartyInvites/Views/Home/RsvpForm.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/Views/Home/RsvpForm.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartyInvites/bin/PartyInvites.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/bin/PartyInvites.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartyInvites/obj/Debug/PartyInvites.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PartyInvites/obj/Debug/PartyInvites.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +24,7 @@
       <option value="$PROJECT_DIR$/PartyInvites/Views/Home/Thanks.cshtml" />
       <option value="$PROJECT_DIR$/PartyInvites/Views/Web.config" />
       <option value="$PROJECT_DIR$/PartyInvites/Views/Home/Index.cshtml" />
+      <option value="$PROJECT_DIR$/PartyInvites/Views/Home/RsvpForm.cshtml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1s2kAuLxJfNnnf7IDyUAx3NUv5M" />
@@ -86,7 +93,9 @@
       <option name="presentableId" value="Default" />
       <updated>1620077935996</updated>
       <workItem from="1620077943320" duration="1573000" />
-      <workItem from="1620079577851" duration="450000" />
+      <workItem from="1620079577851" duration="838000" />
+      <workItem from="1620117603590" duration="852000" />
+      <workItem from="1620118660855" duration="1531000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap do project and modified index.cshtml file.">
       <created>1620079915809</created>
@@ -113,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
