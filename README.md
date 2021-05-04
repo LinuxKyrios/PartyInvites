@@ -12,3 +12,6 @@ The general objectives of the project are to create a sample web application usi
 * AspNet.WebPages.3.2.7
 * NUnit.3.13.2
 * Bootstrap 2.3.1 (As higher version of Bootstrap wont works with .NET Framework v 4.5 as jQuery has no valid version)
+
+### State of the project:
+04.05.2021 Project is finished as all objectives are fulfilled and project is working correctly
